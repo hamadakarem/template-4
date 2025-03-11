@@ -1294,3 +1294,6 @@ ul {
     cursor: pointer;
 }
 /* End Plans */
+html {
+    scroll-behavior: smooth;
+}
